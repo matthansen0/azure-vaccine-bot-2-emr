@@ -1,6 +1,3 @@
-This respository has been archived and has been moved to [https://github.com/microsoft/azure-vaccine-bot-2-emr](https://github.com/microsoft/azure-vaccine-bot-2-emr).
-
-
 # Abstract
 
 As the COVID-19 Vaccine rollout increases in volume, providers are preparing for a massive influx of patient registrations. Many of these provider's EMR (Electronic Medical Records) systems are already heavily burdened from daily work and cannot handle a spike in record entries or new patients, which will be the case with vaccine registration. Many of these individuals will not already be patients of that particular Medical Provider and may never visit them again.  
